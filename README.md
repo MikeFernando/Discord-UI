@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://mike-fernando-discord-clone.netlify.app" target="_blank">
-    <img alt="Demo on Netlify" src="https://res.cloudinary.com/luke-morales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
+    <img alt="Demo on Netlify" src="https://res.cloudinary.com/LukeMorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
   </a>
 </p>
 
