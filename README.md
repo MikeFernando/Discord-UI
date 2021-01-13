@@ -1,6 +1,6 @@
 <h1 align="center"> UI Discord </h1>
 
-<p align="center"> Oque mais chama atenção é a mistura dos headers que nada mais é que a propriedade clip do css que permite especificar um retângulo para cortar um elemento posicionado de forma absoluta. </p>
+<h3 align="center"> aplicação em React reproduzindo a interface do Discord, do zero!. </h3>
 
 
 
@@ -8,5 +8,8 @@
 - Javascript
 - Typescript
 - ReactJS
+- Styled-components
+- Grid
+- Flex-box
 - CSS
 - HTML
