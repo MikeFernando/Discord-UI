@@ -2,6 +2,9 @@
 
 <h3 align="center"> aplicação em React reproduzindo a interface do Discord, do zero!. </h3>
 
+<div>
+   <img src="./github/discord-clone.gif" alt"discord" />
+</div>
 
 
 ## Technologies
