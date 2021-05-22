@@ -1,6 +1,6 @@
-<h1 align="center"> UI Discord </h1>
+<h1 align="center"> UI Clone Discord </h1>
 
-<h3 align="center"> aplicação em React reproduzindo a interface do Discord, do zero!. </h3>
+<h3 align="center"> Aplicação em React reproduzindo a interface do Discord, do zero!. </h3>
 
 <p align="center">
   <a href="https://mike-fernando-discord-clone.netlify.app" target="_blank">
