@@ -13,7 +13,7 @@
 </div>
 
 
-## Technologies
+## Tecnologias
 - Javascript
 - Typescript
 - ReactJS
